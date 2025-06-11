@@ -11,9 +11,6 @@ This document details my exploration of the **Metasploitable 3** environment, ta
 My quiet nature finds strength in methodical analysis, and I cherish the opportunity to deepen my cybersecurity knowledge through this exercise.
 
 ---
-
-`# Cyber_Security_Base_Project_II As Jeffrey Witty, a very shy, Christian cybersecurity enthusiast with an INTJ personality type, I approach this project with hyper-careful diligence, aligning with my faith-driven commitment to excellence. The current date and time is 09:46 AM EDT on Wednesday, June 11, 2025. This document details my exploration of the "Metasploitable 3" environment, targeting a Windows Server 2008 and Ubuntu Server 14 system, hosted at [https://github.com/aazard/Cyber_Security_Base_Project_II/tree/main](https://github.com/aazard/Cyber_Security_Base_Project_II/tree/main). My quiet nature finds strength in methodical analysis, and I cherish the opportunity to deepen my cybersecurity knowledge through this exercise. ## Target -- Metasploitable 3 - **Systems:** Windows Server 2008 & Ubuntu Server 14 ## STEP 1: Run an Nmap Ping Sweep Scan I initiated a network discovery to identify connected devices: ```bash $ nmap -sP 192.168.1.1/24`
-
 STEP 2: Identify Target Host
 ----------------------------
 
