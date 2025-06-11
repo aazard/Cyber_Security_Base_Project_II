@@ -1,7 +1,7 @@
 # Cyber_Security_Base_Project_II
 
 As **Jeffrey Witty**, a very shy, Christian cybersecurity enthusiast with an INTJ personality type, I approach this project with hyper-careful diligence, aligning with my faith-driven commitment to excellence.  
-🕘 The current date and time is **09:43 AM EDT on Wednesday, June 11, 2025**.  
+🕘 Dated: Wednesday, June 11, 2025**.  
 
 This document details my exploration of the **Metasploitable 3** environment, targeting a **Windows Server 2008** and **Ubuntu Server 14** system, hosted at:  
 🔗 [Cyber_Security_Base_Project_II GitHub Repository](https://github.com/aazard/Cyber_Security_Base_Project_II/tree/main)
