@@ -1,5 +1,3 @@
-Please GO THROUGH THE PDF FILE
-
 # Cyber_Security_Base_Project_II
 "Metasploitable 3" and "Snort" rules 
 Cyber security base – Project II
