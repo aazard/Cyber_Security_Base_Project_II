@@ -1,8 +1,8 @@
 Please GO THROUGH THE PDF FILE
 
-# Cybersecurity_base_project_2
-Metasploitable 3 and Snort rules 
-Cyber security base – Project 2
+# Cyber_Security_Base_Project_II
+"Metasploitable 3" and "Snort" rules 
+Cyber security base – Project II
 
 Target – Metasploitable 3
 	    Windows Server 2008 & Ubuntu server 14
@@ -21,13 +21,13 @@ I ran a verbose nmap scan for which i have attached the output file:
 
 # Nmap 7.80 scan initiated Sun Mar  8 20:48:34 2020 as: nmap -sC -sV -p- -A -oA Meta3 192.168.1.40 (output file attached)
 
-The scan results reveled a lot of valuable information about the open ports and services running on the target machine. There is no authentication required to access the administrative functions, default credentials are not changed and there are several outdated versions running. Snort didn’t alert about anything, because port scan detection configurations has been commented out from snort.conf on default.
+Scan results discovered many of valuable information about the open ports and services running on the target device. There was no authentication required to access the administrative functions, default credentials are not changed and there are outdated versions of a few were running. Snort obviously did not trigger a warning about anything, as the port scan detection configurations has been commented out from snort.conf on default.
 
 EXPLOIT I – ELASTIC SEARCH – CVE-2014-3120
 
 STEP 4: PORT 9200 – Elasticsearch
 
-Googling about the gethered information i stumbled upon this link which has an exploit for that service. 
+Googling about the gethered information I found a link which has an exploit for that service. 
 
 Vulnerability name: Elastic search - CVE-2014-3120
 
