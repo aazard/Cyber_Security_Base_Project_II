@@ -2,7 +2,7 @@
 
 # Cyber_Security_Base_Project_II
 
-I **Jeffrey Witty**, a very shy, Christian cybersecurity enthusiast with an INTJ personality type, I approach this project with hyper-careful diligence, aligning with my faith-driven commitment to excellence.  
+I'm **Jeffrey Witty**, a very shy, Christian cybersecurity enthusiast with an INTJ personality type, I approach this project with hyper-careful diligence, aligning with my faith-driven commitment to excellence.  
 🕘 Dated: Wednesday, June 11, 2025.  
 
 This document details my exploration of the **Metasploitable 3** environment, targeting a **Windows Server 2008** and **Ubuntu Server 14** system, hosted at:  
