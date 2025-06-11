@@ -188,22 +188,9 @@ SNORT RULE FIX: We can get Snort to figure this out by uncommenting lines 118 an
 
 Is it easier to fix the application than to detect attacks?
 
-In my opinion, it is a lot easier to detect attacks than to fix an application. 
-Because, the latter can be approached in various diffent ways than the former. 
-In other words, it is more efficient to perform reconnissance, pen testing and privilege escalation to find the faults with 
-the application than to go through millions of lines of codes to find faults to fix. 
-More over, in the latter approach, ususally, one vulernability fix would give rise to multiple vulnerabilites and 
-mistakes could be done on implementation level as well, not necessarily on the code level. 
-So, problems like this could really put developers out of their elements. 
-This is liable to make developers cause more errors as well. 
-Developers usually have a lot on their plate and it is hard for them to take care of fixing the applications all by 
-themselves especially with the recent proliferation in IoT. That is where intrusion detection comes in. 
-Intrusion detection is at least a countermeasure, even though in not a direct way and it gives information about the 
-possible vulnerabilities both on the system and its applications. 
-Systems that are based on modern open source are obviously easier to fix, but first you must find the vulnerabilities, 
-so considering the problem at hand, intrusion detection is also needed. Pentesting report and vulnerability analysis 
-can actually expdite the process of fixing application. Usually, other than Intrusion Detection Systems (IDE) like snort. 
-detecting attacks are done through managing and detecting logs as well. 
-If there is any out of ordinary behavior is noticed in logs, 
-then we can brace ourself for a vulnerability assessment and check for software or hardware to be updated 
-(not all the time, false positives are really irritating though).
+In my opinion, detecting attacks is much easier than fixing an application. This is because the latter can be approached in a variety of different ways, unlike the former. In other words, it is more efficient to conduct reconnaissance, penetration testing, and privilege escalation to identify faults in an application than 
+to sift through millions of lines of code trying to locate and fix issues. Moreover, in the latter approach, fixing one vulnerability often introduces multiple new ones, and mistakes may occur at the implementation level—not necessarily within the code itself. Issues like this can easily push developers outside their comfort 
+zones, increasing the likelihood of errors. Developers often have a heavy workload, and with the recent surge in IoT devices, it's increasingly difficult for them to manage application fixes entirely on their own. That’s where intrusion detection plays a crucial role. Although not a direct solution, it serves as a countermeasure 
+by providing information about potential vulnerabilities in both the system and its applications. Systems based on modern open-source platforms are arguably easier to patch, but vulnerabilities still need to be identified first—making intrusion detection essential. Penetration testing reports and vulnerability assessments can 
+actually speed up the application-fixing process. In addition to Intrusion Detection Systems (IDS) like Snort, attack detection often involves log monitoring and analysis. When unusual behavior is noticed in logs, it may indicate the need for a vulnerability assessment or software/hardware update—though not always, as false 
+positives can be quite frustrating.
